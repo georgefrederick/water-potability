@@ -1,0 +1,4 @@
+{"C":[0.001,0.01,0.1,1.0,10.0],
+"kernel":['linear','rbf'],
+"X_test":"./X_test.csv",
+"y_test":"./y_test.csv"}
